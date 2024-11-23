@@ -1,4 +1,5 @@
-![Untitled design (6)](https://github.com/user-attachments/assets/ed324c7d-4320-47bc-aedc-192509d709c6)
+![Untitled design (4)](https://github.com/user-attachments/assets/d1e0711a-7fec-4211-bd97-05bfbffb6582)
+
 
 ```kotlin
 val mukuljangir = developer {
