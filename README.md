@@ -1,7 +1,4 @@
-![Github Banner](https://github.com/user-attachments/assets/f7be605c-4551-467e-9256-0d175cc8ec13)
-
-
-
+![Github Banner](https://github.com/user-attachments/assets/91e265db-cab2-4f09-8d4c-f156e9faf16b)
 
 ```kotlin
 val mukuljangir = developer {
