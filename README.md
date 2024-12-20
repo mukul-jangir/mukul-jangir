@@ -12,7 +12,7 @@ val mukuljangir = developer {
     links {
         linkedin = "@mukuljangir"
         medium = "@mukuljangir"
-        substack = "@jangirmukul"
+        substack = "@mukuljangir"
     }
 }
 ```
