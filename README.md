@@ -4,8 +4,8 @@
 
 - 🔭 Talk about Android | ♨️ Kotlin | 🚗 Compose | ⛵ Architecture | ⚙️ Gradle | 🚀 Performance & 🛡️Security
 - 📌 Apps on Playstore: [@MukulJangir](https://play.google.com/store/apps/developer?id=Mukul+Jangir)
-- 📝 Read articles on Medium: [@mukuljangir372](https://medium.com/@mukuljangir)
-- 🍉 Connect on Linkedin: [@mukuljangir372](https://www.linkedin.com/in/mukuljangir)
+- 📝 Read articles on Medium: [@mukuljangir](https://medium.com/@mukuljangir)
+- 🍉 Connect on Linkedin: [@mukuljangir](https://www.linkedin.com/in/mukuljangir)
 
 ```kotlin
 val mukuljangir = developer {
