@@ -3,9 +3,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=mukul-jangir)
 
 - 🔭 Talk about Android | ♨️ Kotlin | 🚗 Compose | ⛵ Architecture | ⚙️ Gradle | 🚀 Performance & 🛡️Security
-- 📌 Apps on Playstore: [@MukulJangir](https://play.google.com/store/apps/developer?id=Mukul+Jangir)
+- 🌎 Connect on Linkedin: [@mukuljangir](https://www.linkedin.com/in/mukuljangir)
+- 📨 Subscribe To My Newsletter: [@AndroidBytes]([https://www.linkedin.com/in/mukuljangir](https://mukuljangir.substack.com/?r=4ssjbd&utm_campaign=pub-share-checklist))
 - 📝 Read articles on Medium: [@mukuljangir](https://medium.com/@mukuljangir)
-- 🍉 Connect on Linkedin: [@mukuljangir](https://www.linkedin.com/in/mukuljangir)
+- 📌 Apps on Playstore: [@MukulJangir](https://play.google.com/store/apps/developer?id=Mukul+Jangir)
+
+
 
 ```kotlin
 val mukuljangir = developer {
@@ -16,7 +19,6 @@ val mukuljangir = developer {
     links {
         linkedin = "@mukuljangir"
         medium = "@mukuljangir"
-        twitter = "@mukuljangirx"
         substack = "@mukuljangir"
     }
 }
