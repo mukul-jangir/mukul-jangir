@@ -1,5 +1,3 @@
-## Hi there 👋
-### I'm Mukul Jangir, a Software Engineer (Android & Kotlin)
 ![](https://github-profile-trophy.vercel.app/?username=mukul-jangir)
 
 - 🔭 Talk about Android | Kotlin | Compose | Architecture | Gradle | Performance | Security
